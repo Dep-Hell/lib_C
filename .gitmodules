@@ -1,0 +1,4 @@
+[submodule "3rdParty/libFreeAssange"]
+	path = 3rdParty/libFreeAssange
+	url = https://github.com/dep-hell/libFreeAssange
+	branch = belmarsh
